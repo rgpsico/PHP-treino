@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\pagseguro"
+		},
+		{
+			"path": "..\\..\\..\\laravel"
+		},
+		{
+			"path": "..\\.."
+		}
+	],
+	"settings": {}
+}
